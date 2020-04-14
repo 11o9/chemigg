@@ -23,6 +23,7 @@
     "webpack": "^4.42.1"
   },
   "devDependencies": {
+    "push-dir": "^0.4.1",
     "webpack-cli": "^3.3.11"
   }
 }
